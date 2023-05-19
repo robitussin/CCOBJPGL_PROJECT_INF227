@@ -1,0 +1,2 @@
+# CCOBJPGL_PROJECT_INF227
+This is our project for CCOBJPGL
